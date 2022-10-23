@@ -8,7 +8,6 @@
     <link href="css/bootstrap-4.3.1.css" rel="stylesheet">
   </head>
   <body>
-    <link rel="Shortcut Icon"  href="ico.ico"  type="image/cv.png">
     <div class="container">
       <hr>
       <div class="row">
